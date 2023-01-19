@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+        "height": "40.3em",
+        "margin": "auto",
+        "width": "20em",
+      }
+    }
+  >
+    <img
+      alt="Cali"
+      className="card-img-top"
+      src="Cali.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Portfolio
+      </div>
+      <p
+        className="card-text"
+      >
+        Hello my name is Kenny. At the moment i'm learning software development.
+      </p>
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        type="button"
+      >
+        Button
+      </button>
+    </div>
+  </div>
+</div>
+`;
